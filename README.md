@@ -1,12 +1,28 @@
-# 👋 Hi, I'm Maureen
+## Hi, I'm Maureen
 
-** Data and Marketing Analyst | Geospatial Analyst | Software Engineering **
+## **Data and Marketing Analyst |  Geospatial Analyst |  Software Engineering**
 
 I work at the intersection of **data, software, and user experience**—transforming raw data into actionable insights and building digital products that support data-driven decision-making.
 
-My background spans **data analysis, geospatial insights, and full-stack development**, with a strong focus on clarity, accuracy, and usability.
+---
 
-📍 Open to opportunities in Data Analytics, Marketing Analytics, Geospatial Analysis, and Software Development
+## 🚀 Selected Projects
+
+# 📈 [End to End Ecommerce Analytics Project](https://docs.github.com) 
+## (Business Health, Customer Retention, Funnel and Conversion Analysis)
+## End to End Ecommerce Analytics Project 
+This project sought to analyse how a toy company was doing and specifically answer how the business was doing, are customers coming back, where was the comapny losing customers and what was hurting profitability.
+
+**Tech:** PostresQL, Python, PowerBI 
+
+# 🗺️  [Mukuru Housing Project: Geospatial Analysis for Project's Sustainability](https://docs.github.com)
+
+Mukuru Housing Project: Geospatial Analysis for project's Sustainability
+
+**Tech:** LiDar, QGIS, Satelite Imagery
+This project applies **geospatial data analysis** to assess infrastructure distribution, environmental risks, and spatial patterns within **Mukuru Housing Project**.
+
+
 
 ---
 
@@ -23,43 +39,12 @@ My background spans **data analysis, geospatial insights, and full-stack develop
 
 ## 🛠️ Technical Skills
 
-**Programming & Query Languages**  
-- Python  
-
-**Data & Analytics**  
-- Data Analysis with Python  
-- Data Visualization  
-- SQL  
-
-**Geospatial & Mapping**  
-- Geospatial Data Analysis  
-- Location-Based Data Visualization *(maps, spatial insights)*  
-
-**Backend & Databases**  
-- Django  
-- MySQL  
-- PostgreSQL  
-
-**Cloud & DevOps**  
-- AWS  
-- Docker  
-
-**Tools**  
-- Git  
-- Jest  
-
----
-
-## 🚀 Selected Projects
-
-### ⚽ End to End Ecommerce Analytics Project 
-**Tech:** PostresQL, Python, PowerBI 
-
-### 🧩 Mukuru Housing Project: Geospatial Analysis for project's Sustainability
-**Tech:** LiDar, QGIS, Satelite Imagery
-This project applies **geospatial data analysis** to assess infrastructure distribution, environmental risks, and spatial patterns within **Mukuru Housing Project**.
-
-
+- **Programming & Query Languages** : Python, SQL  
+- **Data & Analytics** :  Data Visualization, PowerBI, Tableau, Excel
+- **Geospatial & Mapping** : Geospatial Data Analysis , QGIS, LiDar, Satellite Imagery, Remote Sensing
+- **Backend & Databases**  : Django, PostgresQL
+- **Cloud & DevOps** : AWS, Docker
+- **Tools**  : Git, Jest
 ---
 
 ## 📫 Contact & Links
