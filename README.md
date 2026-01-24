@@ -1,4 +1,4 @@
-## **Data and Marketing Analyst |  Geospatial Analyst |  Software Engineering**
+## **Data and Marketing Analyst |  Geospatial Analyst |  Software Engineer**
 
 I work at the intersection of **data, software, and business**. Transforming raw data into actionable insights and building digital products that support data-driven decision-making.
 
@@ -46,5 +46,5 @@ This project applies **geospatial analysis** to evaluate the sustainability and 
 
 ## 📫 Contact & Links
 
-- 📧 **Email:** kavssimply@Gmail.com  
+- 📧 **Email:** kavssimply@gmail.com  
 - 💼 **LinkedIn:** www.linkedin.com/in/maureen-mwenswa-dataanalysis
