@@ -1,5 +1,3 @@
-## Hi, I'm Maureen
-
 ## **Data and Marketing Analyst |  Geospatial Analyst |  Software Engineering**
 
 I work at the intersection of **data, software, and business**. Transforming raw data into actionable insights and building digital products that support data-driven decision-making.
