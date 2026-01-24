@@ -2,8 +2,6 @@
 
 I work at the intersection of **data, software, and business**. Transforming raw data into actionable insights and building digital products that support data-driven decision-making.
 
----
-
 ## 🚀 Selected Projects
 
 # 📈 [End to End Ecommerce Analytics Project](https://github.com/kurves/E-CommerceProject) 
