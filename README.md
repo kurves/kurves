@@ -2,27 +2,26 @@
 
 ## **Data and Marketing Analyst |  Geospatial Analyst |  Software Engineering**
 
-I work at the intersection of **data, software, and user experience**—transforming raw data into actionable insights and building digital products that support data-driven decision-making.
+I work at the intersection of **data, software, and business**. Transforming raw data into actionable insights and building digital products that support data-driven decision-making.
 
 ---
 
 ## 🚀 Selected Projects
 
-# 📈 [End to End Ecommerce Analytics Project](https://docs.github.com) 
+# 📈 [End to End Ecommerce Analytics Project](https://github.com/kurves/E-CommerceProject) 
 ## (Business Health, Customer Retention, Funnel and Conversion Analysis)
 ## End to End Ecommerce Analytics Project 
-This project sought to analyse how a toy company was doing and specifically answer how the business was doing, are customers coming back, where was the comapny losing customers and what was hurting profitability.
+This project implements a complete end-to-end analytics workflow, covering data modeling, ETL, KPI development, and visualization. THe project evaluates the performance of a toy e-commerce company to assess overall business health. The analysis answers key business questions such as: How is the company performing over time? Are customers returning, or is churn increasing?
 
-**Tech:** PostresQL, Python, PowerBI 
+
+**Tech:** SQL, PostreSQL, Python, PowerBI 
 
 # 🗺️  [Mukuru Housing Project: Geospatial Analysis for Project's Sustainability](https://docs.github.com)
-
-Mukuru Housing Project: Geospatial Analysis for project's Sustainability
+## (GIS methods, Mapping, Spatial joins, Buffers, Clustering )
+## Mukuru Housing Project: Geospatial Analysis for Project's Sustainability
+This project applies **geospatial analysis** to evaluate the sustainability and planning effectiveness of the **Mukuru Housing Project**. It integrates spatial, infrastructural, and socio-economic datasets to assess housing distribution, access to essential services, and assess how effectively the project supports livable and inclusive urban development.
 
 **Tech:** LiDar, QGIS, Satelite Imagery
-This project applies **geospatial data analysis** to assess infrastructure distribution, environmental risks, and spatial patterns within **Mukuru Housing Project**.
-
-
 
 ---
 
