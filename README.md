@@ -16,7 +16,7 @@ This project implements a complete end-to-end analytics workflow, covering data 
 
 **Tech:** SQL, PostreSQL, Python, PowerBI 
 
-# 🗺️  [Mukuru Housing Project: Geospatial Analysis for Project's Sustainability](https://docs.github.com)
+# 🗺️  [Mukuru Housing Project: Geospatial Analysis for Project's Sustainability](https://github.com/kurves/Mukuru-Housing-Geospatial-Analysis-Project)
 ## (GIS methods, Mapping, Spatial joins, Buffers, Clustering )
 ## Mukuru Housing Project: Geospatial Analysis for Project's Sustainability
 This project applies **geospatial analysis** to evaluate the sustainability and planning effectiveness of the **Mukuru Housing Project**. It integrates spatial, infrastructural, and socio-economic datasets to assess housing distribution, access to essential services, and assess how effectively the project supports livable and inclusive urban development.
