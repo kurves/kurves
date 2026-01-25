@@ -6,7 +6,6 @@ I work at the intersection of **data, software, and business**. Transforming raw
 
 # 📈 [End to End Ecommerce Analytics Project](https://github.com/kurves/E-CommerceProject) 
 ## **(Business Health, Customer Retention, Funnel and Conversion Analysis, Risk Analysis)**
-## End to End Ecommerce Analytics Project 
 This project implements a complete end-to-end analytics workflow, covering data modeling, ETL, KPI development, and visualization. The project evaluates the performance of a toy e-commerce company to assess overall business health. The analysis answers key business questions such as: How is the company performing over time? Are customers returning, or is churn increasing?
 
 
@@ -14,7 +13,6 @@ This project implements a complete end-to-end analytics workflow, covering data 
 
 # 🗺️  [Geospatial Analysis for the Mukuru Housing Project's Sustainability](https://github.com/kurves/Mukuru-Housing-Geospatial-Analysis-Project)
 ## (GIS methods, Mapping, Spatial joins, Buffers, Clustering )
-## Geospatial Analysis for the Sustainability of the Mukuru Housing Project
 This project applies **geospatial analysis** to evaluate the sustainability and planning effectiveness of the **Mukuru Housing Project**. It integrates spatial, infrastructural, and socio-economic datasets to assess housing distribution, access to essential services, and assess how effectively the project supports livable and inclusive urban development.
 
 **Tech Stack:** LiDar, QGIS, Satelite Imagery
