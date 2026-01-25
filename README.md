@@ -11,7 +11,13 @@ This project implements a complete end-to-end analytics workflow, covering data 
 
 **Tech Stack:** SQL, PostreSQL, Python, PowerBI 
 
-# 🗺️  [Geospatial Analysis for the Mukuru Housing Project's Sustainability](https://github.com/kurves/Mukuru-Housing-Geospatial-Analysis-Project)
+# 📊 [FMCG Market Intelligence Analysis Project](https://github.com/kurves/FMCG-Market-Intelligence-Project)
+## (Consumer Behavior, Competition, Growth Strategy, Business Decisions) 
+This project focuses on market trends, consumer behavior, and competitive intelligence to inform strategic decision-making by a FMCG Market Analyst within a fast-moving consumer goods company.
+
+**Tech  Stack:** Python, SQL, Tableau, Excel
+
+# 🗺️  [Geospatial Analysis for the Sustainability of the Mukuru Housing Project](https://github.com/kurves/Mukuru-Housing-Geospatial-Analysis-Project)
 ## (GIS methods, Mapping, Spatial joins, Buffers, Clustering )
 This project applies **geospatial analysis** to evaluate the sustainability and planning effectiveness of the **Mukuru Housing Project**. It integrates spatial, infrastructural, and socio-economic datasets to assess housing distribution, access to essential services, and assess how effectively the project supports livable and inclusive urban development.
 
