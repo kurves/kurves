@@ -1,6 +1,6 @@
 ## **Data Engineer and Marketing Analyst |  Geospatial Analyst**
 
-I work at the intersection of **data, software, and business**. Transforming raw data into actionable insights and building digital products that support data-driven decision-making.
+I work across **data**, **software**, and **business teams** to turn raw data into useful information that helps guide decisions. I focus on building reliable data workflows and tools that make it easier to analyze and use data in practice.
 
 ## 🚀 Selected Projects
 
