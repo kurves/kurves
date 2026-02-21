@@ -48,5 +48,6 @@ This project applies **geospatial analysis** to evaluate the sustainability and 
 
 ## 📫 Contact & Links
 
-- 📧 **Email:** kavssimply@gmail.com  
-- 💼 **LinkedIn:** www.linkedin.com/in/maureen-mwenswa-dataanalysis
+- 📧 [**Email**](kavssimply@gmail.com)  
+- 💼 [**LinkedIn**](www.linkedin.com/in/maureen-mwenswa-DataEngineerAnalyst)
+
