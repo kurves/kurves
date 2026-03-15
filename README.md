@@ -1,4 +1,4 @@
-## **Data Engineer and Marketing Analyst |  Geospatial Analyst**
+## **Data Analyst and Engineer  |  Geospatial Analyst**
 
 I work across **data**, **software**, and **business teams** to turn raw data into useful information that helps guide decisions. I focus on building reliable data workflows and tools that make it easier to analyze and use data in practice.
 
