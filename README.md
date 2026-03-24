@@ -2,28 +2,32 @@
 
 I bridge the gap between software engineering and data science by designing scalable pipelines and writing clean, maintainable code. By applying mathematical rigor and analytical techniques, I transform complex datasets into actionable insights that inform strategic decisions and uncover hidden patterns within raw information. I am passionate about leveraging machine learning fundamentals to solve real-world problems, with particular interest in computer vision, autonomous systems and deep learning in the civil engineering and urban planning fields.
 
+
+## :school: Certifications
+
+- ### Alx Certified: Sotware Engineer
+- ### Google Certified: Data Analyst 
+- ### Udacity Ceritified: Cloud DevOps Engineer
+
+------
+
+
 ## 🚀 Selected Projects
 
-# 📈 [End to End Ecommerce Analytics Project](https://github.com/kurves/E-CommerceProject) 
-## **(Business Health, Customer Retention, Funnel and Conversion Analysis, Risk Analysis)**
+## 📈 [End to End Ecommerce Analytics Project](https://github.com/kurves/E-CommerceProject) 
+### **(Business Health, Customer Retention, Funnel and Conversion Analysis, Risk Analysis)**
 This project implements a complete end-to-end analytics workflow, covering data modeling, ETL, KPI development, and visualization. The project evaluates the performance of a toy e-commerce company to assess overall business health. The analysis answers key business questions such as: How is the company performing over time? Are customers returning, or is churn increasing?
 
 
 **Tech Stack:** SQL, PostreSQL, Python, PowerBI 
 
-# 📊 [FMCG Market Intelligence Analysis Project](https://github.com/kurves/FMCG-Market-Intelligence-Project)
-## (Consumer Behavior, Competition, Growth Strategy, Business Decisions) 
+## 📊 [FMCG Market Intelligence Analysis Project](https://github.com/kurves/FMCG-Market-Intelligence-Project)
+### (Consumer Behavior, Competition, Growth Strategy, Business Decisions) 
 This project focuses on market trends, consumer behavior, and competitive intelligence to inform strategic decision-making by a FMCG Market Analyst within a fast-moving consumer goods company.
 
 **Tech  Stack:** Python, SQL, Tableau, Excel
 
-# 🗺️  [Geospatial Analysis for the Sustainability of the Mukuru Housing Project](https://github.com/kurves/Mukuru-Housing-Geospatial-Analysis-Project)
-## (GIS methods, Mapping, Spatial joins, Buffers, Clustering )
-This project applies **geospatial analysis** to evaluate the sustainability and planning effectiveness of the **Mukuru Housing Project**. It integrates spatial, infrastructural, and socio-economic datasets to assess housing distribution, access to essential services, and assess how effectively the project supports livable and inclusive urban development.
-
-**Tech Stack:** LiDar, QGIS, Satelite Imagery
-
----
+-----
 
 ## 🧠 Core Competencies
 
