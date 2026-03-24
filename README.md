@@ -1,6 +1,6 @@
-## **Data Analyst and Engineer  |  Geospatial Analyst**
+## **Data Analyst and Engineer  |  ML Engineer**
 
-I work across **data**, **software**, and **business teams** to turn raw data into useful information that helps guide decisions. I focus on building reliable data workflows and tools that make it easier to analyze and use data in practice.
+I bridge the gap between software engineering and data science by designing scalable pipelines and writing clean, maintainable code. By applying mathematical rigor and analytical techniques, I transform complex datasets into actionable insights that inform strategic decisions and uncover hidden patterns within raw information. I am passionate about leveraging machine learning fundamentals to solve real-world problems, with particular interest in computer vision, autonomous systems and deep learning in the civil engineering and urban planning fields.
 
 ## 🚀 Selected Projects
 
@@ -43,11 +43,12 @@ This project applies **geospatial analysis** to evaluate the sustainability and 
 - **Geospatial & Mapping** : Geospatial Data Analysis , QGIS, LiDar, Satellite Imagery, Remote Sensing
 - **Backend & Databases**  : Django, PostgresQL
 - **Cloud & DevOps** : AWS, Docker
-- **Tools**  : Git, Jest
+- **Tools**  : Git, Jest, Jupyter
+- **ML**: PyTorch, scikit-learn, TensorFlow
 ---
 
 ## 📫 Contact & Links
 
-- 📧 [Email](https://kavssimply@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maureen-mwenswa-DataEngineerAnalyst)
+- 📧 Email: [kavssimply@gmail.com](https://kavssimply@gmail.com)  
+- 💼 Linkedin: [https://www.linkedin.com/in/maureen-mwenswa-DataEngineerAnalyst](https://www.linkedin.com/in/maureen-mwenswa-DataEngineerAnalyst)
 
