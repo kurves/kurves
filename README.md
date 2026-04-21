@@ -1,4 +1,4 @@
-## **Data Analyst and Engineer  |  ML Engineer**
+## **Data Analyst and Engineer  | DevOps**
 
 I bridge the gap between software engineering and data science by designing scalable pipelines and writing clean, maintainable code. By applying mathematical rigor and analytical techniques, I transform complex datasets into actionable insights that inform strategic decisions and uncover hidden patterns within raw information. I am passionate about leveraging machine learning fundamentals to solve real-world problems, with particular interest in computer vision, geospatial intelligence, and optimization for sustainable infrastructure and urban systems.
 
