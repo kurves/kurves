@@ -1,4 +1,4 @@
-## **Data Analyst and Engineer | DevOps** 
+## **Data Analyst and ML Engineer | DevOps** 
 
 <a align="center" href="https://kurves-github-io.vercel.app/"><img src="ink.svg" alt="Button Name" width="750"></a> 
      
@@ -15,6 +15,12 @@ I bridge the gap between software engineering and data science by designing scal
 
 
 ## 🚀 Selected Projects
+
+## 📈 [Customer Churn Prediction Using Explainable AI](https://github.com/kurves/Customer-Churn-Prediction-Engine) 
+### **(Customer churn prediction using SHAP)**
+An end-to-end machine learning project focused on predicting customer churn and identifying the key behavioral, contractual, and financial drivers behind customer attrition using Explainable AI (SHAP).
+
+**Tech  Stack:** Python, Scikit-lern, Pandas, SHAP
 
 ## 📈 [End to End Ecommerce Analytics Project](https://github.com/kurves/E-CommerceProject) 
 ### **(Business Health, Customer Retention, Funnel and Conversion Analysis, Risk Analysis)**
@@ -56,5 +62,5 @@ This project focuses on market trends, consumer behavior, and competitive intell
 ## 📫 Contact & Links
 
 - 📧 Email: [kavssimply@gmail.com](https://kavssimply@gmail.com)  
-- 💼 Linkedin: [https://www.linkedin.com/in/maureen-mwenswa-DataEngineerAnalyst](https://www.linkedin.com/in/maureen-mwenswa-DataEngineerAnalyst)
+- 💼 Linkedin: [https://www.linkedin.com/in/maureen-mwenswa](https://www.linkedin.com/in/maureen-mwenswa)
 
